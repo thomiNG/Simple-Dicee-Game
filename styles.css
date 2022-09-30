@@ -1,0 +1,51 @@
+body {
+  background-color: #393e46;
+  /* display: flex;
+  justify-content: center; */
+  margin: auto;
+  text-align: center;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+  display: inline-block;
+}
+
+/* testing purpose */
+.content {
+  text-align: center;
+}
+
+.big-header {
+  font-size: 8rem;
+  font-family: "Lobster", cursive;
+  color: #4ecca3;
+  text-shadow: 2px 1px white;
+  margin-top: 1.5rem;
+}
+
+.restart-button {
+  width: 100px;
+  height: 50px;
+  border-radius: 15%;
+  border: 0;
+}
+
+.dice {
+  display: inline-block;
+  text-align: center;
+  /* margin: 0 20px 0 20px; */
+}
